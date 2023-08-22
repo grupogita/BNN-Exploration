@@ -1,6 +1,6 @@
 # GITA (Grupo de Investigación en Telecomunicaciones Aplicadas)
 
-This repository presents Binary Neural Networks (BNNs) Exploration, a set of codes intended to generate Intrusion Detection Systems (IDS) with artificial intelligence algorithms and in particular the step-by-step to create a Neural Network that works with binary values. The data sets used for this exploration are: BOTNET2014[1] and CICIDS2017[2], wish are well known datasets within bening and attacks data. 
+This repository introduces the exploration of Binary Neural Networks (BNNs), which comprises a collection of code designed to construct Intrusion Detection Systems (IDS) using artificial intelligence algorithms. The focus is on providing a comprehensive guide to creating a Neural Network that operates with binary values. The exploration employs two prominent datasets: BOTNET2014[1] and CICIDS2017[2], both of which are widely recognized for containing benign and attack-related data.
 
 [1] Beigi, E. B., Jazi, H. H., Stakhanova, N., & Ghorbani, A. A. (2014, October). Towards effective feature selection in machine learning-based botnet detection approaches. In 2014 IEEE Conference on Communications and Network Security (pp. 247-255). IEEE.
 
